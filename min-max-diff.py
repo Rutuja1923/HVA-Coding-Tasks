@@ -9,8 +9,8 @@ print("Enter array elements :")
 L=list(map(int,input().split()))
 l = find_len(L)
 
-minDiff=L[0]
-maxDiff=L[0]
+minEle=L[0]
+maxEle=L[0]
 i=1 
 
 while i<l:
