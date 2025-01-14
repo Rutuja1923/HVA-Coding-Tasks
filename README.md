@@ -11,7 +11,6 @@ This repository contains a curated list of simple yet effective Python programmi
 
 Each question focuses on essential programming topics such as conditions, loops, arrays, strings, and algorithms, making it an excellent resource for learners at any stage.
 
----
 
 ## Topics Covered
 
@@ -21,4 +20,3 @@ Each question focuses on essential programming topics such as conditions, loops,
 4. **Strings**: Character and word-based programming challenges.
 5. **Advanced Logic**: Problem-solving exercises that require a deeper understanding of Python.
 
----
