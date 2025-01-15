@@ -21,3 +21,11 @@ target = list(map(int, input().split()))
 
 print(check_subarrray(L,target))
 
+'''
+while i < len(arr) - m + 1 :
+        if arr[i:i + m] == targetSubArr:
+            return "Yes"
+        i += 1
+
+    return "No"
+'''
